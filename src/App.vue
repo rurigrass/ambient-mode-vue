@@ -14,7 +14,6 @@ const ambientStatus = ref(false);
     <AmbientContainer :ambientOn="ambientStatus" />
     <AmbientContainer :ambientOn="ambientStatus" />
     <AmbientContainer :ambientOn="ambientStatus" />
-    <AmbientContainer :ambientOn="ambientStatus" />
   </div>
 </template>
 
