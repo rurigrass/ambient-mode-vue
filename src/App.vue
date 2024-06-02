@@ -13,6 +13,7 @@ const ambientStatus = ref(false);
     </button>
     <AmbientContainer :ambientOn="ambientStatus" />
     <AmbientContainer :ambientOn="ambientStatus" />
+    <AmbientContainer :ambientOn="ambientStatus" />
   </div>
 </template>
 
